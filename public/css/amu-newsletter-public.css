@@ -1,0 +1,56 @@
+.newsletter-footer .mc_embed_signup{
+    padding: 20px 0 0;
+}
+
+.newsletter-footer .mc_embed_signup form{
+    display: flex;
+    justify-content: center;
+}
+
+.newsletter-footer .mc_embed_signup .newsletter-title{
+    width: 100%;
+}
+
+.newsletter-footer .mc_embed_signup .newsletter-title h2{
+    font-size: 18px;
+}
+
+.newsletter-footer .mc_embed_signup input,
+.newsletter-footer .mc_embed_signup select{
+    padding: 3px 15px;
+    height: 35px;
+    border: none;
+    margin: 1px;
+    font-size: 14px;
+    outline: none;
+    
+}
+
+.newsletter-footer .mc_embed_signup select{
+    color: #666;
+}
+
+.newsletter-footer .mc_embed_signup .formEmailButton{
+    background: #3f8fc0;
+}
+
+
+.newsletter-page{
+    display: flex;
+    justify-content: center;
+}
+
+.newsletter-page form input,
+.newsletter-page form select{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+.newsletter-page .mailchimp-s-form-custom div{
+    margin-bottom: 15px;
+}
+
+.mc_embed_signup .error-lists{
+    padding: 10px 0 0;
+}
